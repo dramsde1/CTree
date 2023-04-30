@@ -1,0 +1,419 @@
+commit cac3cd77b312b114a7619777bf95de2b609a2092
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 16 15:01:02 2018 -0500
+
+    no mem leaks.
+
+commit 5b3034afcaa723c48a51abde322eb7ae78aab425
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 16 14:35:20 2018 -0500
+
+    finished
+
+commit fbc25a1300b390d3f14036a7bc3cd7701d3d721f
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 16 14:27:16 2018 -0500
+
+    fixing slight errors in Tree.inc
+
+commit 9d54eed72f7a9466c6bb1aa9764b7412fd3d3822
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 16 00:31:24 2018 -0500
+
+    made the .h file for the template version
+
+commit 20ebfe685a2cbb3427d69d1042a2edefb3bbd77a
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 16 00:10:55 2018 -0500
+
+    part one is finished
+
+commit 716c3ce15732319a51c4dec18ccdf0f8495efb79
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 15 23:29:58 2018 -0500
+
+    passed the part 1 tests except the operator overiding
+
+commit ac1791645e5ab70a5c0261d8cc1fa8b69aaf14a5
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Nov 14 22:14:24 2018 -0500
+
+    in the middle of writing the destructor
+
+commit 0ff03fda892ed4cb8b863b80e7eadd8488bf5cad
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 2 22:55:19 2018 -0400
+
+    fsdf
+
+commit 5f1be37fba7fa729a74d476996515d9a19c04440
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 2 18:07:27 2018 -0400
+
+    almost done
+
+commit 92a614e8e1448698f1600032084b2308f079e54d
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Nov 2 14:54:11 2018 -0400
+
+    almost done the last input part
+
+commit 2f12883e573fe9cde9db293571458e705c41d975
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 23:57:56 2018 -0400
+
+    almost done with the loop stuff
+
+commit 5250e2b95cbbdca86c9d7b37d8cf3e508c51792b
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 22:39:41 2018 -0400
+
+    the first screen is working
+
+commit 1893f532b20320c34b684dec0a588b4fae0d1d30
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 20:36:16 2018 -0400
+
+    sorting kind of works
+
+commit 861cfc5902b62d12575ff9498239ec92b7267ad1
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 13:43:32 2018 -0400
+
+    sorting kind of works
+
+commit f0093a5005ddd536ef15dfcf9295d174af2095bf
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 12:43:19 2018 -0400
+
+    having problems with sorting
+
+commit 74a01cb17f3486f820a588c3dd871a1e38f43e8c
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Nov 1 10:40:49 2018 -0400
+
+    finshed mapping the digraphs to the words
+
+commit 92ab17b1ae6d559bdf8b150bd961ad70ff8732f0
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 31 23:11:14 2018 -0400
+
+    my to lower function works
+
+commit 04e3fa02d8ac4df925c2ff0b093da92c640bae38
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 31 22:49:49 2018 -0400
+
+    able to read in the chars
+
+commit a9b0099318c8a4ce2e42fdab77d5cde43b5d21d7
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 31 12:20:19 2018 -0400
+
+    began making my helper functinos
+
+commit 437e886e27e8225575f6e782a8b4ad1a95557812
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 21:50:30 2018 -0400
+
+    new zipfile
+
+commit 5ff2fa21c33af43bcf34b5c8e407823ce2a9d8f1
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 21:39:01 2018 -0400
+
+    created zip
+
+commit 29e02aa241e9ccd9252b156356b49f8b0f92e171
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 21:27:40 2018 -0400
+
+    all tests pass
+
+commit 6eee5d1d3b84f26eb136def155ce11359be017c4
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 20:56:49 2018 -0400
+
+    find_right passed the test
+
+commit da4c61b20d87caa15f452f9dfbf27a4e6bde7439
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 20:24:03 2018 -0400
+
+    make file on point
+
+commit 225738f5856d321e434a70dd6cf1df9689726282
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 20:03:43 2018 -0400
+
+    testing magic is complete
+
+commit f5ac475ae7b9a6f08b45a676ec9df21f681cf948
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 07:55:13 2018 -0400
+
+    fixed printing error
+
+commit 74e48135033251491fc6b1140c24d61802a3a719
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 07:43:55 2018 -0400
+
+    everything finally works
+
+commit 045c93183c8d48d6fd3dfafe5a6d661d7eb0b5b8
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Oct 6 07:27:42 2018 -0400
+
+    fixed populate grid again
+
+commit 2728be8530a8fb1d8482effcdfc42c9955ff442b
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Oct 5 21:36:31 2018 -0400
+
+    everything works
+
+commit cba2e9938af60f07b6d47d3420ea8156d8bc6d3d
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Oct 5 21:25:56 2018 -0400
+
+    unsigned int problem
+
+commit a5f9f5aefed9afaa6bd59b266f8359bcb9e089bb
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Oct 5 12:03:23 2018 -0400
+
+    Not Found works
+
+commit 634d2326c76205edf1766df29ae0a033841908d9
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Oct 5 11:16:36 2018 -0400
+
+    main functions work
+
+commit c71b5ce1b96d3f955bd7d917907fa37927b394e9
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Oct 5 10:38:32 2018 -0400
+
+    finally, find_all works
+
+commit ea6f72a65daa70dc261570f1912e78a1dc6523a0
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Oct 4 22:59:51 2018 -0400
+
+    fixed find_up
+
+commit c88f5ce6c52eccbb7485dd9f2a00140d59cf2b3a
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Oct 4 03:41:53 2018 -0400
+
+    all finds work correctly
+
+commit 29033eb00340ab18db9cd938a144e2559d0b7b7f
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 3 23:26:29 2018 -0400
+
+    find_left seems to work fine
+
+commit 095971595841cfe263a31236ce5450d447073b04
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 3 23:11:46 2018 -0400
+
+    find_right works like a charm
+
+commit f55cf5e6e9998509a43c1dfc764df037b2336e18
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 3 22:22:34 2018 -0400
+
+    fgets() actually picks up a line inside a while loop
+
+commit 0070d3ffa1b64b86f065cd85a1d269c5aaeb72cb
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Oct 3 10:48:09 2018 -0400
+
+    mock grid
+
+commit ef075aa1c8abc157420ea397b432ec4057b5b297
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Oct 1 21:39:30 2018 -0400
+
+    finished the start of the fin_right functions
+
+commit b5ff62f152cc6eac0db48f0ae13654a15d425d54
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 30 14:10:37 2018 -0400
+
+    attempted the find_right function, needs some work
+
+commit ac0f585502da1178d2647ee0abe14597d221ee8f
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 30 12:33:12 2018 -0400
+
+    the populate grid seems to work
+
+commit 675015b524492980c59eeff78cc9942160ad2dce
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sat Sep 29 23:42:47 2018 -0400
+
+    first 2 hours of hw3
+
+commit 310d249600ba956189a207ced73b4d5fee3444ea
+Author: Devin <dramsde1@jhu.edu>
+Date:   Fri Sep 21 13:17:01 2018 -0400
+
+    first implementation of all_in_one
+
+commit 2c45e4a76242b808632a2734ab49b3682b2026e9
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 22:55:06 2018 -0400
+
+    last
+
+commit cfab47a2f9faef4838def422a02c5acf226c0242
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 22:54:09 2018 -0400
+
+    last
+
+commit c682a06d4252bb138289a6b519ad610797aaf6f4
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 22:50:02 2018 -0400
+
+    submission
+
+commit bf9f3e789cfc22c5afe68c741423d149a773d20f
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 22:40:54 2018 -0400
+
+    final
+
+commit 48b2292cb9269931f7692e7e0ce138f7c686bc0d
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 21:10:34 2018 -0400
+
+    the one problem for hw1
+
+commit f165ea75ca64ae432731123b4524056cd58b9e35
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 18:38:56 2018 -0400
+
+    Really bad implementation
+
+commit d3247a00068d087f02aba4474b3b1adf2a741f66
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 12:59:57 2018 -0400
+
+    all work
+
+commit 53b693497509e521dc7fc69d7906608aa5900b92
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 11:19:40 2018 -0400
+
+    */ just broke but everything else works
+
+commit ef269831f50e8a172a9bd107654981c95fedd7bf
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 10:36:23 2018 -0400
+
+    fixed the last exception
+
+commit 3e437c6acb7942ec11410112f2469f761c6051d8
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 10:15:38 2018 -0400
+
+    all the tests seem to work
+
+commit b87870cb8b456b233caee98c5db58a4c57a007da
+Author: Devin <dramsde1@jhu.edu>
+Date:   Thu Sep 20 04:52:24 2018 -0400
+
+    when I realized ypd youized    thatjdsfjhsfkj that you hace to put both var in scanf at the same time to pick up the operator
+
+commit de386c94e2fe2ded6a9f6f2c3652a858d753f750
+Author: Devin <dramsde1@jhu.edu>
+Date:   Tue Sep 18 23:17:53 2018 -0400
+
+    on the right track, just has to print correctly
+
+commit db2feb8cb0b4657414f6eff491cc56d08a1d8f5d
+Author: Devin <dramsde1@jhu.edu>
+Date:   Tue Sep 18 01:14:02 2018 -0400
+
+    Almost got the loop working correctly
+
+commit 859d1ce5e754f84b0a4e3ce6c88d4723cd5bc99b
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 23:59:51 2018 -0400
+
+    Not doing more than one operation insode operation inside the loop
+
+commit 04a49fcbfa52742836efd6f243264edf97ae4a95
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 21:13:01 2018 -0400
+
+    On the right track, just need to fix some cases
+
+commit 4be7aa79fa15546d7649858ba4eb324d1d56327b
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 20:12:17 2018 -0400
+
+    After realizing that order of observations isn't important
+
+commit c59338489a8b5d5b3d7a770b0f4d9be6d40b2a2e
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 18:08:37 2018 -0400
+
+    using arrays to do the trick but its not looking so good
+
+commit 7619663c6c5c76a0813603ff61dc2e2c3fa25f59
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 17:14:18 2018 -0400
+
+    works only if the espression is not too long
+
+commit 670f9f131a3a9b1f0c6ef7c4c6e67cfc8c54cb51
+Author: Devin <dramsde1@jhu.edu>
+Date:   Mon Sep 17 16:40:39 2018 -0400
+
+    first example in homework works!
+
+commit 296a30a938de310098fdeacdb83ec5a45da4834d
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 16 23:36:39 2018 -0400
+
+    Beginning to use a while loop
+
+commit 5f9ce6800e4fa4da883e0977ccb85a6346fc3d90
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 16 15:06:00 2018 -0400
+
+    Now works if user only enters one number
+
+commit 32ac17cf2cb6fce684993956fb14337491df60e8
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 16 14:57:53 2018 -0400
+
+    first version
+
+commit c674f6ef0c292e3bf3f818e3b33665f2f95ba012
+Author: Devin <dramsde1@jhu.edu>
+Date:   Sun Sep 16 14:55:03 2018 -0400
+
+    first working version
+
+commit 1fc4ba4bf553835edd3340b28cad141d9a4fb8ff
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Sep 5 22:29:32 2018 -0400
+
+    "created hw0 assignments"
+
+commit 439b757eb9eba06fefa25c2d1540fe804f49e381
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Sep 5 13:14:44 2018 -0400
+
+    created README
+
+commit c68a8988c4bfa2125348ea3f5dbd8f49594e0528
+Author: Devin <dramsde1@jhu.edu>
+Date:   Wed Sep 5 17:09:41 2018 +0000
+
+    Initial commit
